@@ -1,0 +1,30 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} /(uploads)
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+
+# End the processing, if a rewrite already occurred
+RewriteRule ^(frontend|backend)/web/ - [L]
+
+# Handle the case of backend, skip ([S=1]) the following rule, if current matched
+RewriteRule ^backend(/(.*))?$ backend/web/$2 [NC,L]
+
+# handle the case of frontend
+RewriteRule .* frontend/web/$0
+
+RewriteRule ^api(/(.*))?$ api/$3
+
+</IfModule>
+
+# Deny accessing below extensions
+#<Files ~ "(.json|.lock|.git)">
+#Order allow,deny
+#Deny from all
+#</Files>
+
+# Deny accessing dot files
+#RewriteRule (^\.|/\.) - [F]

@@ -1,3 +1,9 @@
+/code/frontend/runtime/
+/code/frontend/runtime/*
+
+/code/backend/runtime/
+/code/backend/runtime/*
+
 /code/backend/assets/
 /code/backend/assets/*
 
@@ -16,8 +22,3 @@ composer.json
 
 /code/uploads/
 /code/uploads/*
-
-s
-
-
-

@@ -1,0 +1,6 @@
+******************05-07-2018 09:12:35******************
+
+http://172.16.17.188/code/api/v1/oauth/sendmail?jsonData=%7B%22vPasswordResetToken%22%3A%2232c12ae0f3ee064829f8498d44959139%22%2C%22vName%22%3A%22bhargav%22%2C%22vEmailId%22%3A%22bhargav.spaceo%40gmail.com%22%7D
+
+**********************************************************************
+

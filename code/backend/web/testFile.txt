@@ -1,0 +1,114 @@
+******************19-03-2018 12:11:58******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:12******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:25******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:25******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:42******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:42******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:53******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:12:53******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:13:09******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************19-03-2018 12:13:09******************
+
+"{\"message\":\"asd\",\"message_type\":\"admin\"}"
+
+**********************************************************************
+
+******************24-07-2019 11:16:52******************
+
+{"data":"Mail jay 6e"}
+
+**********************************************************************
+
+******************24-07-2019 11:19:35******************
+
+{"data":"Mail jay 6e"}
+
+**********************************************************************
+
+******************24-07-2019 11:22:18******************
+
+{"data":"Mail jay 6e"}
+
+**********************************************************************
+
+******************24-07-2019 11:27:44******************
+
+{"data":"Failed to authenticate on SMTP server with username \"akshayb.spaceo@gmail.com\" using 3 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials s6sm73010026pfs.122 - gsmtp\r\n\". Authenticator PLAIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials s6sm73010026pfs.122 - gsmtp\r\n\". Authenticator XOAUTH2 returned Expected response code 250 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials s6sm73010026pfs.122 - gsmtp\r\n\"."}
+
+**********************************************************************
+
+******************24-07-2019 11:28:32******************
+
+{"data":"Failed to authenticate on SMTP server with username \"akshayb.spaceo@gmail.com\" using 3 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials v10sm46512371pfe.163 - gsmtp\r\n\". Authenticator PLAIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials v10sm46512371pfe.163 - gsmtp\r\n\". Authenticator XOAUTH2 returned Expected response code 250 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials v10sm46512371pfe.163 - gsmtp\r\n\"."}
+
+**********************************************************************
+
+******************24-07-2019 11:29:06******************
+
+{"data":"Failed to authenticate on SMTP server with username \"akshayb.spaceo@gmail.com\" using 3 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d129sm51467483pfc.168 - gsmtp\r\n\". Authenticator PLAIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d129sm51467483pfc.168 - gsmtp\r\n\". Authenticator XOAUTH2 returned Expected response code 250 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d129sm51467483pfc.168 - gsmtp\r\n\"."}
+
+**********************************************************************
+
+******************24-07-2019 11:46:27******************
+
+{"data":"Failed to authenticate on SMTP server with username \"akshayb.spaceo@gmail.com\" using 3 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d17sm48942189pgl.66 - gsmtp\r\n\". Authenticator PLAIN returned Expected response code 235 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d17sm48942189pgl.66 - gsmtp\r\n\". Authenticator XOAUTH2 returned Expected response code 250 but got code \"535\", with message \"535-5.7.8 Username and Password not accepted. Learn more at\r\n535 5.7.8  https:\/\/support.google.com\/mail\/?p=BadCredentials d17sm48942189pgl.66 - gsmtp\r\n\"."}
+
+**********************************************************************
+
+******************24-07-2019 11:47:45******************
+
+{"data":"Mail jay 6e"}
+
+**********************************************************************
+
+******************01-08-2019 09:07:26******************
+
+{}
+
+**********************************************************************
+

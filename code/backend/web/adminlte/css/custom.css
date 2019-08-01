@@ -1,0 +1,124 @@
+/*-------------------------------
+Login Page Section
+-------------------------------*/
+
+.login-signup-form { max-width: 350px; margin: 0 auto; }
+.login-signup-form .form-group .requird-text { color: #4e4e4e; font-size: 14px; }
+.login-signup-form .form-group label { color: #000; font-size: 14px; font-weight: 600; }
+.login-signup-form .form-group input { border: 1px solid #dfdfdf; box-shadow: 0; height: 42px; }
+.login-signup-form .form-group.forgot-password { margin: 30px 0 50px; }
+.login-signup-form .form-group.forgot-password a { color: #525252; font-size: 14px; }
+.login-signup-form .form-group .btn-custom { background: #de1e25; border-radius: 50px; color: #fff; font-size: 16px; font-weight: 600; height: 52px; min-width: 250px; padding: 0 35px; }
+
+.frm-txt{ font-size:14px; }
+
+.business-photo .upload-business-logo, .business-photo .upload-business-profile {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+input.input-hidden {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    opacity: 0;
+    /* margin: 0 15px; */
+    left: 0;
+    cursor: pointer;
+}
+.business-photo .inner-text p {
+    padding-top: 140px;
+    text-align: center;
+    color: #666;
+}
+.business-photo .first-row{
+    margin-bottom: 15px;
+}
+.business-photo .multi-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160px;
+    background-position: center;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+.business-photo .upload-business-profile, .business-photo .multiple-photos {
+    width: 90%;
+}
+.business-photo .multiple-photos .img1, .business-photo .multiple-photos .img2 {
+    width: 48.5%;
+    display: inline-block;
+}
+.business-photo .multiple-photos .img1 {
+    margin-right: 2%;
+}
+
+.business-offers-form .removebtn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url("../img/close.png") no-repeat center;
+    border: medium none;
+    width: 20px;
+    height: auto;
+    background-size: cover !important;
+    z-index: 9;
+}
+
+.business-offers-form .upload-img .banner {
+    height: 200px;
+    width: 100%;
+    border: 1px dashed #ddd;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.business-offers-form .upload-img {
+    float: none;
+    width: 100%;
+    margin: 0 2px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+}
+.business-offers-form .upload-file {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    opacity: .0001;
+    cursor: pointer;
+}
+.upload-img .form-group {
+    margin-bottom: 0px;
+}
+@media (max-width: 991px){
+    .business-photo .multiple-photos .img1, .business-photo .multiple-photos .img2 {
+        width: 48%;
+        display: inline-block;
+    }
+}
+@media (max-width: 767px){
+    .business-photo .first-row .upload-business-profile {
+        margin: 15px 0 0;
+    }
+    .business-photo .upload-business-profile, .business-photo .multiple-photos {
+        width: 100%;
+    }
+    .business-photo .multi-img {
+        height: 110px;
+    }
+}
